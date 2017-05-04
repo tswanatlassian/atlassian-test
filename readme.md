@@ -3,6 +3,8 @@
 Kirby is a file-based CMS.
 Easy to setup. Easy to use. Flexible as hell.
 
+#### I'm not going to get rid of this, but rather add some lines to change the position of the comment
+
 ## Buy a license
 
 You can purchase your Kirby license at
