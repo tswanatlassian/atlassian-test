@@ -3,11 +3,7 @@
 Kirby is a file-based CMS.
 Easy to setup. Easy to use. Flexible as hell.
 
-## Trial
-
-You can try Kirby on your local machine or on a test
-server as long as you need to make sure it is the right
-tool for your next project.
+#### I'm not going to get rid of this, but rather add some lines to change the position of the comment
 
 ## Buy a license
 
