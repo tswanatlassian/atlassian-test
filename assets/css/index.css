@@ -8,11 +8,6 @@
   
   ## Color Definitions
   
-  The following colors used in the Starterkit. If you want
-  to use this CSS file as a starting point for your own
-  project, you can do a simple search & replace to adjust
-  the color scheme to your needs.
-  
   - Background:            #fffff8
   - Text:                  #261e66
   - Hovered Links:         #560bed
@@ -766,13 +761,6 @@ body {
     margin: 0 .2em;
     color: #71efac;
   }
-}
-
-/* -----  3.4 Main Content  ------------------------------------------------- */
-
-.main {
-  padding-top: 3rem;
-  padding-bottom: 1.5rem;
 }
 
 /* =====  4 Template-specific Components ==================================== */
