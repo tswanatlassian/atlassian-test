@@ -2,8 +2,10 @@ Title: Kirby Starterkit
 
 ----
 
-Author: Bastian Allgeier GmbH
+Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Team)
 
 ----
 
-Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Team)
+Author: Bastian Allgeier GmbH
+
+----
